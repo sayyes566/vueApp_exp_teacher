@@ -1,0 +1,10 @@
+{
+  "name": "exp_teacher",
+  "displayName": "exp_teacher",
+  "expo": {
+    "name": "exp_teacher",
+    "slug": "exp_teacher",
+    "sdkVersion": "30.0.0",
+    "privacy": "public"
+  }
+}
